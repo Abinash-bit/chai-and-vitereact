@@ -6,7 +6,7 @@ function App() {
   return (
     <>
     <Chai/>
-    <h1>Chai aur react {username}</h1>
+    <h1>Chai aur react {username}</h1> 
     <p>test para</p>
     </>
 
